@@ -33,16 +33,7 @@ const user = [{
   "createdAt": "2022-04-09T05:08:07.144Z",
   "name": "Nellie Orn",
   "email": "Kenya59@hotmail.com",
-  "number": "799-684-6512",
-  "id": "1"
 },
-  {
-    "createdAt": "2022-04-08T19:26:23.865Z",
-    "name": "Dolores Moen",
-    "email": "Isom34@hotmail.com",
-    "number": "379-718-4871",
-    "id": "2"
-  },
   {
     "createdAt": "2022-04-09T03:55:54.486Z",
     "name": "Ramon Becker",
