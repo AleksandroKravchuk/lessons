@@ -1,4 +1,4 @@
-export default "main";
+export default 'main';
 
 // const calkr = {
 //   value: 0,
